@@ -8,7 +8,4 @@ public class MaClass {
 
     }
 
-    public void fonctionalite_C(){
-
-    }
 }
