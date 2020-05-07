@@ -23,4 +23,8 @@ public class MaClass {
     public void fonctionalite_E(){
 
     }
+
+    public void fonctionalite_F(){
+
+    }
 }
